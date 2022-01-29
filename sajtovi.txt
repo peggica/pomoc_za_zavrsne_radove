@@ -1,0 +1,2 @@
+resize image: https://resizeimage.net/
+tkinter boje: https://stackoverflow.com/questions/4969543/colour-chart-for-tkinter-and-tix
